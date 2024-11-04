@@ -20,7 +20,7 @@
 	<main>
 		<section id="about">
 			<h2>About</h2>
-			<p>덕영고등학교 1학년 재학중인 김준우입니다!</p>
+			<p>덕영고등학교 2학년 재학중인 김준우입니다!</p>
 		</section>
 		<section id="project">
 			<h2>Project</h2>
