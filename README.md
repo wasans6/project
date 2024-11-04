@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>포트폴리오</title>
+	
 </head>
 <body>
 	<header>
